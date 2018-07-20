@@ -21,7 +21,7 @@ grammar_cjkRuby: true
 
  
     
-**内容构成： **文档：Word 文档：《第一次会议记录》、《第二次会	议记录》、《测试内容说明文档》
+**内容构成： ** 文档：Word 文档：《第一次会议记录》、《第二次会	议记录》、《测试内容说明文档》
                     Excel文件：《小组分工时间推进表》
                     PPT  文件：《阶段性汇报》
                代码：共包括5个py文件：4大类和一个主程序
@@ -31,9 +31,9 @@ grammar_cjkRuby: true
                		speech.py      语音合成类（伪）
                     main.py        主程序
    				               
- **工作执行： **本项目在执行时分为5大部分：文档撰写、代码撰写、整合代码至类、测试、报告。
+ **工作执行： ** 本项目在执行时分为5大部分：文档撰写、代码撰写、整合代码至类、测试、报告。
  
- **测试说明： **本项目共包含2个WAV格式测试语音文件resource_en.wav和resource_fr.wav，存储于data 文件夹下，语音文件使用的分别是英语和法语。
-          测试resource_en.wav文件时请选择源语言为英语，输入文件路径为“data/resource_en.wav”。
-          测试resource_fr.wav文件时请选择源语言为法语，输入文件路径为“data/resource_fr.wav”。
-          （详细信息可见《测试内容说明文档》）
+ **测试说明： ** 本项目共包含2个WAV格式测试语音文件resource_en.wav和resource_fr.wav，存储于data 文件夹下，语音文件使用的分别是英语和法语。
+                  测试resource_en.wav文件时请选择源语言为英语，输入文件路径为“data/resource_en.wav”。
+                  测试resource_fr.wav文件时请选择源语言为法语，输入文件路径为“data/resource_fr.wav”。
+                  （详细信息可见《测试内容说明文档》）
